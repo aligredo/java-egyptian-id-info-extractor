@@ -3,6 +3,7 @@ A minimal API to extract info from Egyptian ID number.
 
 ## To Run It
 ----
+cd into the project direcorty then: 
 ```bash
  ./mvnw spring-boot:run
 ```
