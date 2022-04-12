@@ -8,7 +8,7 @@
 ![image](https://drive.google.com/uc?export=view&id=10hz09D7ZsU0xZEUGuU2G2QJAg3mttf1f)
 ----
 ## 4. Creating A New Free Style Job On Jenkins
-![image](https://drive.google.com/drive/folders/16GKi4prkPj-kZKkK13vcs4-IU7a2IHhD "")
+![image](https://drive.google.com/drive/folders/16GKi4prkPj-kZKkK13vcs4-IU7a2IHhD)
 ![image](https://drive.google.com/uc?export=view&id=1HgNvcsLQxq_nSqsvuSMpLnK_vLkh9raw)
 ### Setting Git Server As Github And Providing Github Repo SSH Link
 ![image](https://drive.google.com/uc?export=view&id=1XmjsxbhEFEUx-6FC3GCTnDnQOjmWuC3m)
