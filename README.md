@@ -1,6 +1,5 @@
 # java-egyptian-id-info-extractor
 A minimal API to extract info from Egyptian ID number.
-
 ## To Run It
 ----
 1. Install Maven 
