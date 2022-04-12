@@ -7,6 +7,18 @@ A minimal API to extract info from Egyptian ID number.
 ```bash
  ./mvnw spring-boot:run
 ```
+OR
+Run It Using Docker
+```bash
+ docker build -t info-extractor .
+```
+Then
+
+```bash
+
+ docker run -p 8090:8080 info-extractor
+
+```
 
 ## API Endpoints 
 ----
