@@ -1,0 +1,5 @@
+"echo 'Building Docker Image'".execute()
+"docker build -t info-extractor .".execute()
+"echo 'Running Docker Container'".execute()
+"docker run -p 8090:8080 info-extractor".execute()
+"echo 'App Running On Port 8090'".execute()
