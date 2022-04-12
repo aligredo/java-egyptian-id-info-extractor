@@ -1,6 +1,12 @@
 # java-egyptian-id-info-extractor
 A minimal API to extract info from Egyptian ID number.
 
+## To Run It
+----
+```bash
+ ./mvnw spring-boot:run
+```
+
 ## API Endpoints 
 ----
  ### Extract Info From Id
